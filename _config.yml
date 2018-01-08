@@ -1,12 +1,12 @@
 
 title: dong ho
 desctiption: Karna is a responsive jekyll theme which includes pinterest like pins.
-url: http://ehdgh7410.github.io/
+url: http://ehdgh7410.github.io
 permalink: ':title/'
 
-markdown: kramdown
-baseurl: ""
-full-version: ""
+markdown: 
+baseurl: " "
+full-version: " "
 
 sass:
     style: compressed
